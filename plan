@@ -1,5 +1,0 @@
-1. You load a text file.
-2. You formant it into an array of words
-3. You search for words in this array
-4. You calculate in what array is the most ammount of same words, and in what array is least.
-5. You print filenames in an order
